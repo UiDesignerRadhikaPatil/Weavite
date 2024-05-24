@@ -48,7 +48,7 @@ function Sidebar() {
               <img src={thread} alt="logo" style={{ width: "40px", height: "40px" }} />
             </span> */}
             <div className="text hidden-text">
-              <span className="name" style={{fontWeight:'800', color:'#135D66', marginBottom:'20px'}}>WEAVIET APP</span>
+              <span className="name" style={{fontWeight:'800', color:'#135D66', marginBottom:'20px'}}>WEAVEIT APP</span>
             </div>
           </div>
           <div className="sidebar-items">

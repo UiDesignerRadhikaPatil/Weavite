@@ -4,6 +4,9 @@
 
 :root {
     --primary-color: #003C43;
+    --secondary-color:#135D66;
+    --tershary-color:#77B0AA;
+    --complementary-color: #FF5F15;
     --accent-color: #3f83f8;
     --text-color: #333333;
     /* --background-color: #ffffff; */
@@ -12,9 +15,8 @@
     --dark-gray: #555;
     --link-color: #6365F2;
     --background-color:#e0e9f0;
-    --loom-button:#135D66;
     --main: #e1f3ee;
-    --dark-orange: #FF5F15
+   
 
 
 

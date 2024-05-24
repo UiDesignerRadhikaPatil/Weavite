@@ -1,5 +1,4 @@
 import {  MdCancelPresentation } from "react-icons/md";
-import { LuUtilityPole } from "react-icons/lu";
 import { GrCompliance } from "react-icons/gr";
 import { MdPeople } from "react-icons/md";
 import { BsPersonWorkspace } from "react-icons/bs";
@@ -20,20 +19,20 @@ export const menuItems = [
   },
   {
     title: "Loom Details",
-    path: "loom-details",
+    path: "loomdetails",
     icon: <MdCancelPresentation />,
    
   },
   {
     title: "Loom Booking",
-    path: "loom-booking",
+    path: "loomBooking",
     icon: <RiBook2Fill />,
    
   },
   {
     title: "Job Work Enquiry",
     icon: <BsPersonWorkspace />,
-    path: "job-work-enquiry"
+    path: "jobwork-enquiry"
   },
   {
     title: "Live Orders",
@@ -43,12 +42,12 @@ export const menuItems = [
   {
     title: "Cancelled Orders",
     icon: <MdCancelPresentation />,
-    path: "cancelled-orders"
+    path: "cancelled-order"
   },
   {
     title: "Get Yarn Rates",
     icon: <RiPriceTag3Fill />,
-    path: "get-yarn-rates"
+    path: "get-yarn"
   },
   {
     title: "Calculation",
